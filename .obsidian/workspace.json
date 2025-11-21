@@ -164,19 +164,9 @@
               "icon": "lucide-list",
               "title": "이력서 의 개요"
             }
-          },
-          {
-            "id": "de3462488f1f4cfe",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,7 +185,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de3462488f1f4cfe",
+  "active": "288f851380f34c84",
   "lastOpenFiles": [
     "README.md",
     "database.md",
