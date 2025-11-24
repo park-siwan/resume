@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이력서.md",
-                "mode": "source",
+                "file": "이력서/v1.0.0.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이력서"
+              "title": "v1.0.0"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "이력서.md",
+                "file": "이력서/v1.0.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "이력서 의 개요"
+              "title": "v1.0.0 의 개요"
             }
           }
         ],
@@ -180,16 +180,15 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "288f851380f34c84",
   "lastOpenFiles": [
+    "이력서",
     "README.md",
     "database.md",
-    "이력서.md",
+    "이력서/v1.0.0.md",
     "무제.base",
     "templater/info.js.md",
     "templater"
