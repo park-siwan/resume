@@ -1,17 +1,13 @@
-<table width="100%" style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none; vertical-align: top; padding-right: 25px;">
-<img src="img/박시완 사진2.jpg" alt="박시완" width="130" style="border-radius: 8px;" />
-</td>
-<td style="border: none; vertical-align: top;">
-<h1 style="margin: 0 0 10px 0; font-size: 28px;">박시완 | 프론트엔드 개발자</h1>
-<p style="margin: 5px 0;"><strong>생년월일</strong>: 1995년생</p>
-<p style="margin: 5px 0;"><strong>Email</strong>: siwandevelop@gmail.com</p>
-<p style="margin: 5px 0;"><strong>GitHub</strong>: <a href="https://github.com/park-siwan">github.com/park-siwan</a></p>
-<p style="margin: 5px 0;"><strong>Location</strong>: 서울</p>
-</td>
-</tr>
-</table>
+<img src="img/박시완 사진2.jpg" alt="박시완" width="150" align="left" style="margin-right: 20px; border-radius: 8px;" />
+
+# 박시완 | 프론트엔드 개발자
+
+**생년월일**: 1995년생
+**Email**: siwandevelop@gmail.com
+**GitHub**: [github.com/park-siwan](https://github.com/park-siwan)
+**Location**: 서울
+
+<br clear="both" />
 
 ---
 
