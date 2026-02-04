@@ -1,4 +1,4 @@
-<table style="border: none; border-collapse: collapse;">
+<table width="100%" style="border: none; border-collapse: collapse;">
 <tr>
 <td style="border: none; vertical-align: top; padding-right: 25px;">
 <img src="img/박시완 사진2.jpg" alt="박시완" width="130" style="border-radius: 8px;" />
