@@ -85,6 +85,12 @@ img[width='100%'] {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   margin: 5px 0;
   display: block;
+  page-break-inside: avoid;
+}
+
+/* PDF 페이지 나눔 방지 */
+section, article {
+  page-break-inside: avoid;
 }
 
 /* 코드/기술스택 강조 */
