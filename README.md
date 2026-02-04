@@ -1,6 +1,15 @@
-| | |
-|:---:|:---|
-| <img src="img/박시완 사진2.jpg" width="150" /> | **박시완 \| 프론트엔드 개발자** <br><br> **생년월일**: 1995년생 <br> **Email**: siwandevelop@gmail.com <br> **GitHub**: [github.com/park-siwan](https://github.com/park-siwan) <br> **Location**: 서울 |
+<table>
+<tr>
+<td><img src="img/박시완 사진2.jpg" width="150" /></td>
+<td>
+<b>박시완 | 프론트엔드 개발자</b><br><br>
+<b>생년월일</b>: 1995년생<br>
+<b>Email</b>: siwandevelop@gmail.com<br>
+<b>GitHub</b>: <a href="https://github.com/park-siwan">github.com/park-siwan</a><br>
+<b>Location</b>: 서울
+</td>
+</tr>
+</table>
 
 ---
 
