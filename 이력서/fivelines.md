@@ -1,0 +1,383 @@
+<table width="100%" style="border: none; border-collapse: collapse;">
+<tr>
+<td style="border: none; vertical-align: top; padding-right: 25px;">
+<img src="../img/박시완 사진2.jpg" alt="박시완" width="130" style="border-radius: 8px;" />
+</td>
+<td style="border: none; vertical-align: top;">
+<h1 style="margin: 0 0 10px 0; font-size: 28px;">박시완 | 프론트엔드 개발자</h1>
+<p style="margin: 5px 0;"><strong>생년월일</strong>: 1995년생</p>
+<p style="margin: 5px 0;"><strong>Email</strong>: siwandevelop@gmail.com</p>
+<p style="margin: 5px 0;"><strong>GitHub</strong>: <a href="https://github.com/park-siwan" style="color: #F37321;">github.com/park-siwan</a></p>
+<p style="margin: 5px 0;"><strong>Location</strong>: 서울</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 주요 성과
+
+- **실시간 금융 데이터 시각화 시스템 구축** (WebSocket + TradingView, 10+ 기술적 지표)
+- **암호화폐 선물 트레이딩 +718.97% ROI** (90일, $62K 수익)
+- **Android/iOS 하이브리드 앱 개발 및 배포** (WebView-Native 양방향 통신, Google Play/App Store)
+- **Atomic Design 기반 공통 디자인 시스템 구축** (Figma 연동 컴포넌트 라이브러리)
+- **페이지 로딩 속도 78.75% 개선** (8초 → 1.7초)
+- **Next.js 메모리 사용량 40% 감소**
+- **인프라 비용 연 450만원 절감** (ECS → Vercel 전환)
+- **AI 도구(Claude Code, Windsurf) 활용 개발 생산성 향상**
+
+---
+
+## 경력 요약
+
+**4.5년 경력의 프론트엔드 개발자**로서 **실시간 금융 데이터 처리 및 고성능 차트 시각화**, **하이브리드 앱(WebView-Native) 개발**, **공통 디자인 시스템 구축** 경험을 보유하고 있습니다. 헬스케어 SaaS와 여행 플랫폼에서 복잡한 비즈니스 로직을 구현하고, QA 및 배포까지 책임진 경험이 있습니다.
+
+**핵심 역량:**
+
+- WebView-Native 양방향 통신 설계 및 하이브리드 앱 개발/배포 (Android/iOS)
+- 대용량 실시간 금융 데이터 처리 및 고성능 차트 시각화 (WebSocket, TradingView)
+- Atomic Design 기반 공통 디자인 시스템 설계 및 컴포넌트 라이브러리 구축
+- TypeScript, React Hooks, TanStack Query 등 모던 프론트엔드 기술 실무 경험
+- AI 도구(Claude Code, Windsurf) 적극 활용으로 개발 생산성 향상
+
+---
+
+## 사이드 프로젝트
+
+### 퀀트트레이딩 대시보드 | 2025.06 ~ 현재
+
+_암호화폐 선물 트레이딩 실시간 분석 시스템_
+
+**기술 스택**: Next.js 16, React 19, NestJS 11, WebSocket, TradingView Lightweight Charts
+
+**주요 기능**:
+
+- Bybit/Binance Futures API 연동으로 **실시간 캔들, OI, 청산 데이터 처리**
+- RSI, EMA, VWAP, ADX 등 **10+ 기술적 지표 고성능 차트 시각화**
+- 다이버전스 자동 감지 알고리즘 (RSI/OBV/CVD/OI)
+- SMC(시장 구조 분석): BOS, CHoCH, 오더블록 탐지
+- **WebSocket 기반 실시간 청산/고래 거래($50K+) 모니터링**
+- MTF(멀티 타임프레임) 분석으로 6개 타임프레임 동시 추적
+
+**스크린샷**:
+
+<img src="../img/퀀트트레이딩 대시보드1.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+<img src="../img/퀀트트레이딩 대시보드2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+**실제 트레이딩 성과** (Bybit 선물):
+
+- 90일 수익률 **+718.97%**, 총 수익 **$62,174**
+- Bybit **"최고의 마스터 트레이더"** 선정 (2025.12)
+- Bybit 리더보드 **Top Balanced Traders** 랭킹
+
+<img src="../img/트레이딩 성적4.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+<img src="../img/트레이딩 성적2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+### RSI 다이버전스 알림 봇 | 2025.07 ~ 현재
+
+_암호화폐 기술적 분석 알림 서비스_
+
+- RSI 다이버전스 감지 봇 개발
+- 텔레그램 채널 무료 운영 (33명 구독): https://t.me/rsi_divergence_alert
+
+<img src="../img/기술적분석 알림 기여.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+---
+
+## 기술 스택
+
+### Frontend
+
+**Core:** React, Next.js (13-16), TypeScript
+**State Management:** Recoil, Jotai, React Query, TanStack Query
+**Styling:** Tailwind CSS, Material-UI
+**Chart:** TradingView Lightweight Charts, Chart.js
+**Form:** react-hook-form
+
+### Mobile & Hybrid
+
+**Android:** Kotlin, WebView, WebView-Native 양방향 통신
+**iOS:** Swift, WebView
+**Push:** FCM (Firebase Cloud Messaging)
+**배포:** Google Play, App Store 심사 및 배포
+
+### Backend & API
+
+**Integration:** RESTful API, gRPC, WebSocket
+**Database:** MongoDB, PostgreSQL, DocumentDB
+
+### Infrastructure & DevOps
+
+**Deployment:** Vercel, AWS (ECS), GCP, Docker
+**CI/CD:** GitHub Actions
+**Firebase:** FCM, Analytics
+
+### Design System
+
+**Pattern:** Atomic Design (Atoms/Molecules/Organisms)
+**Tools:** Figma, Figma Dev Mode, MCP 플러그인 개발
+
+### Testing & Quality
+
+**E2E Testing:** Cypress (코드 커버리지 측정 경험)
+
+### Collaboration & Tools
+
+**비동기 커뮤니케이션:** Slack, Notion, Jira (티켓 자동화)
+**AI Tools:** Claude Code, Windsurf로 개발 생산성 향상
+
+---
+
+## 프로젝트 하이라이트
+
+1. **하이브리드 앱 & WebView-Native 통신**
+   - WebView 기반 Android(Kotlin)/iOS(Swift) 앱 개발 및 배포
+   - WebView-Native 양방향 통신 인터페이스 설계
+   - FCM 푸시 알림 (잠금화면/백그라운드/포그라운드 대응)
+   - 토큰 기반 인증 및 세션 유지 (SharedPreferences, iOS Keychain)
+
+2. **실시간 데이터 처리 & 차트 시각화**
+   - WebSocket 기반 실시간 금융 데이터 스트리밍
+   - TradingView Lightweight Charts로 10+ 기술적 지표 시각화
+   - Chart.js 활용 투약 순응도, 걸음수 그래프 (60개+ 데이터 최적화)
+
+3. **공통 디자인 시스템 구축**
+   - Atomic Design Pattern 기반 컴포넌트 라이브러리 (Figma 연동)
+   - Typo 컴포넌트: props로 폰트사이즈/자간/행간/시맨틱태그 제어
+   - 8-point grid system, TypeScript 타입 강제로 런타임 전 디버깅
+
+4. **복잡한 비즈니스 로직 & 비동기 데이터 처리**
+   - 결제/예약 시스템 (계약금/잔금/환불, 다중 화폐 KRW/USD)
+   - gRPC + Protocol Buffers 기반 타입 안전 통신
+   - React-Query 자동 refetch, MSW 모의데이터 환경
+
+5. **성능 최적화 & 인프라**
+   - 페이지 로딩 78.75% 개선 (8초 → 1.7초)
+   - Next.js 메모리 40% 감소, 502 장애 해결
+   - ECS → Vercel 전환으로 연 450만원 절감
+
+6. **국제화(i18n) & 원격 협업**
+   - 4개 국어 지원 (한/중/일/영), 자동 언어 감지
+   - Notion 기반 번역 자동 동기화, Jira 티켓 자동화
+
+---
+
+## 학력
+
+한국조형예술고등학교 그래픽디자인과
+2011.03 ~ 2014.03
+
+**울산대학교 | 디지털콘텐츠디자인 전공**
+2014.03 ~ 2021.02
+
+- 대학 시절 디자인 굿즈 브랜드 공동 창업
+- 월 천만원 매출, 해외 판매 주도, 창업지원금 4~5회 수령, PPT 및 비지니스 전략 수립해 교내 창업 지원금 심사 순위 1위에 기여
+- 증빙 기사: https://www.fnnews.com/news/201904091406372822
+
+---
+
+## 기타
+
+- **관심 분야:** 핀테크, 실시간 데이터 시각화, 성능 최적화
+- **협업 스타일:** 비동기 커뮤니케이션(Slack, Notion) 선호, PM/QA 등 이해관계자가 업무 진행 상황을 알 수 있게 문서화 (Jira 티켓 상태 최신화), 소통시 이해하기 쉽거나 요약된 내용으로 공유
+
+---
+
+## 상세 경력
+
+### 인핸드플러스 | 프론트엔드 개발자
+
+**2022.06 ~ 2025.11 (3년 6개월)**
+_헬스케어 SaaS 플랫폼 (투약 순응도 모니터링 시스템)_
+
+#### **2025년 - 모바일 앱 개발 및 성능 최적화**
+
+**인핸드매니저앱 (Android/iOS) - 하이브리드 앱 개발 및 배포**
+
+- **WebView 기반 하이브리드 아키텍처**로 Android(Kotlin) 및 iOS(Swift) 앱 개발 완료
+- FCM 푸시 알림 시스템 구현으로 실시간 낙상 감지 알림 지원 (잠금화면/백그라운드/포그라운드 모든 상태 대응)
+- Node.js 서버와 FCM SDK 연동, **WebView-Native 양방향 통신 인터페이스 구현**
+- 토큰 기반 인증 및 로그인 세션 유지 (SharedPreferences), Lottie 애니메이션 스플래시 화면 (3초 프리로딩)
+- Google Play/App Store 심사 통과 및 배포 완료
+
+**앱 스토어 심사 최적화**
+
+- Google Play CHECKS (AI 자동 심사) 활용 및 AI로 개인정보 처리방침 개선
+- 데이터 판매/공유 알권리, 거부 권리 관련 정책 추가로 개인정보 처리방침으로 인한 앱 심사 반려 리스크 4가지 제거
+- 2023-2024 Google Play 정책 변화 분석 및 대응 전략 수립
+
+**웹 성능 최적화 (스마트보드/케어웹)**
+
+- 페이지 로딩 속도 **78.75% 개선** (8초 → 1.7초)
+  - 1차 최적화: 8초 → 3초 (62.5% 개선)
+  - 2차 최적화: 3초 → 1.7초 (43.3% 추가 개선)
+- Vercel Edge 서버 최적화로 서울(icn1) 리전 고정, 네트워크 라우팅 정책 직접 제어
+- 푸시메시지, 스와이프 새로고침, 인증 완료 로직 개선 (SBW-96)
+
+**번역 관리 시스템 구축**
+
+- 노션 데이터베이스와 개발 번역 파일 자동 동기화 시스템 개발
+- 기획자/QA/개발자 협업 워크플로 구축으로 실시간 워딩 수정 및 일관성 유지
+
+**개발 생산성 도구**
+
+- Figma 플러그인 개발: 규격서 자동 추적 및 노션 블록 링크 자동 삽입 기능으로 문서 접근성 향상
+- Claude Code + Figma Dev Mode MCP 통합으로 반복 작업 자동화
+
+#### **2024년 - 프론트엔드 아키텍처 혁신 및 인프라 최적화**
+
+**Feature-Sliced Design 아키텍처 도입**
+
+- 스마트보드 프로젝트에 Feature-Sliced Design 아키텍처 전면 도입 및 레거시 코드 리팩토링
+- 계층 구조 설계 (Entities, Features, Widgets, Pages) 및 Entry point 원칙 적용으로 모듈 간 의존성 관리 개선
+- 컴포넌트 설계 표준화로 코드 재사용성 및 유지보수성 대폭 향상
+
+**Next.js 성능 최적화**
+
+- **502 Bad Gateway 장애** 원인 분석 및 해결: CPU 과부하 이슈 파악
+- axios 메모리 누수 방지 작업으로 애플리케이션 안정성 향상, **메모리 사용량 40% 감소**
+- HTTP/2 기반 통신 구현으로 네트워크 효율성 개선
+- React 19 및 Next.js 15 대비 기술 검토 및 migration 계획 수립
+
+**gRPC 기반 통신 시스템 구축**
+
+- Protocol Buffers (.proto) 파일 기반 TypeScript 타입 자동 생성 워크플로 구축
+- Next.js API Route를 활용한 서버리스 gRPC 통신 구현
+- 타입 안정성 확보 및 프론트-백엔드 간 API 일관성 유지
+- 스웨거로 백엔드 개발자와 협업하는 방식과 다르게 암묵적으로 API 스펙을 공유해 소통 비용 절감
+
+**백오피스 사용성 개선**
+
+- 제품관리 페이지 전면 개선: 실시간 자동 검색, 멀티 필터링, 퀵서치 기능 구현
+- 스마트워치 정보와 할당 히스토리 통합으로 정보 접근성 향상, 화면 새로고침 없이 실시간 상태 반영 시스템 구현
+- 로그인 토큰 만료 시 화면 전환 버그 해결, 모니터링 영상 사이즈 안정화
+
+**케어웹 기능 개발**
+
+- 투약리포트 간단메모 기능: 제목/본문 커서 전환, 스크롤 최적화, 페이지네이션, 자동저장, 삭제, 고정 메모 기능
+- 필터링 시스템 개선: 뱃지 UI 추가, 필터 초기화로 전체보기 빠른 접근성 제공
+- 독려메시지 QA 및 버그 수정, 필수값 안내 문구 개선 및 유효성 검증 강화
+
+#### **2023년 - 관리 시스템 개발 및 국제화**
+
+**통합관리자 시스템 개발**
+
+- 기관/관리자/참여자 관리 시스템 전체 개발 (CRUD 기능 완성)
+- 참여자 정보 관리: 6가지 중복체크 및 형식 검증 (랜덤번호, 이름, 전화번호, 생년월일, 모바일앱ID, 워치S/N)
+- 참여자 5가지 상태 관리 시스템 (등록, 진행, 중단, 유예, 종료)
+- 엑셀 일괄 등록 기능, 로딩 처리, 페이지 이탈 방지 구현
+
+**모니터링 시스템 구축**
+
+- 실시간 모니터링 현황 대시보드 개발 (할당 기능, 투약 현황 추적)
+- 참여자별 투약 리포트 시각화, 과투약 경고 메시지 시스템 구현
+- 비디오 암호화: h.264 코덱 MPEG-4 동영상 웹 재생 지원
+
+**국제화(i18n) 시스템 구축**
+
+- next-i18next 라이브러리 기반 SSR/SSG 환경 국제화 설정
+- Accept-Language 헤더 기반 자동 언어 감지, 한국어/중국어/일본어/영어 4개 국어 지원
+- 영문 JSON ↔ 엑셀 변환 워크플로 구축으로 번역 개발 편의성 개선
+- axios 헤더 국제화 적용 및 timezone 자동 반영
+
+**데이터 시각화**
+
+- 순응도 그래프, 걸음수/투약횟수 표기 시스템 개발 (Chart.js 활용)
+- 60개 이상 데이터 시 자동 생략 처리, 가로 스크롤 제약 해결 UX 설계
+- MSW 활용 1년치 모의데이터 환경 구축으로 프론트엔드 독립 개발 환경 구축
+
+**보안 기능**
+
+- 디지털 서명 생성 기능 구현, 인증 센터 연동 및 검증 시스템 개발
+- Jira 티켓 자동화 (Git 브랜치 생성 시 자동 "진행중" 상태 전환, 커밋 메시지 기반 자동 완료 처리)
+
+#### **2022년 - 신입 개발자로서의 빠른 적응 및 성장**
+
+**인핸드케어웹 Next.js 전면 리뉴얼**
+
+- Next.js 기반 SSR 렌더링 전략 수립 및 전면 리뉴얼 설계·구현 (입사 6개월 만에 대규모 프로젝트 주도)
+- 반응형 웹 디자인
+- 로그인 시스템: 메모리 누수 및 무한루프 오류 해결
+- 복약 리포트 시각화 (Chart.js 적용, Recharts에서 마이그레이션), 네트워크 연결 끊김 실시간 감지 및 안내
+
+**통합관리자 시스템 개발**
+
+- 메시징 시스템 구축: 수동/자동 메시지 (액션 버튼, 폼 검증, 예약발송, 반복발송)
+- 발송 내역 페이지: DataGrid 한글화, 검색 기능, React-Query로 1분마다 자동 refetch
+- Stream 채팅 솔루션 연동: 실시간 메시지, 파일 전송, 읽기 확인, 데스크톱 알림 (Notification API)
+- 웹 푸시 클릭 시 해당 채널로 자동 이동, LocalStorage 활용 중복 알림 방지
+
+**방문 일정 관리**
+
+- 방문 일정 CRUD 전체 구현, TimePicker 5분 단위 설정, 오전/오후 버튼과 TimePicker 상태 동기화
+- React.memo 활용 렌더링 최적화 (10개 이상 일정 시 성능 개선)
+
+**테스트 자동화 및 품질 관리**
+
+- Cypress E2E 테스팅 도입 및 환경 구축, data-cy 속성으로 테스트 타겟 명확화
+- 코드 커버리지 플러그인 적용 및 측정, 테스트 실패 시 Slack 자동 알림 설정
+- 실패 지점 대시보드 및 영상 기록, Cypress Best Practices 적용
+
+**Docker 배포 환경 구축**
+
+- Next.js 빌드 환경 구축 (ESLint, Babel, next.config.js), Docker 설정 가이드 작성 및 공유
+
+---
+
+### 트리피누 | 프론트엔드 개발자
+
+**2021.05 ~ 2022.04 (1년)**
+_여행 플랫폼 스타트업 (시드 투자 유치 및 수상)_
+
+#### **여행 서비스 플랫폼 개발**
+
+**220개국 대응 여행 지도 시스템**
+
+- react-leaflet 기반 OpenStreetMap 연동으로 여행 경로 시각화 시스템 개발
+- 동적 마커 아이콘 생성 로직 구현 (day 1~15 순차 번호 표시)
+- Public 폴더 활용으로 15개 이상 이미지 동적 로드 (import 최소화)
+
+**패키지 여행 예약 시스템**
+
+- 회원/비회원 구분 예약 기능 (booking_id 자동 생성: k211122173049@001012345678 형식)
+- 이벤트 관리: 생성, 만료일 관리, 인원/요금 설정, 상태 관리
+- 계약금/잔금/환불 처리 및 날짜 추적, 예약 확인/취소 기능
+- 관리자 페이지: 예약 목록 조회, 사용자 정보 관리
+- **다중 화폐 지원 (KRW, USD)**, commaThousand 커스텀 훅 개발로 가격 천단위 쉼표 표기
+
+**호텔 예약 시스템**
+
+- Booking.com API 연동으로 호텔 데이터 통합
+- Geolocation 문자열 파싱 유틸리티 구현, 다국어 호텔명 관리
+- 위치 기반 검색, 호텔 등급/리뷰 관리
+
+**Atomic Design Pattern 디자인 시스템**
+
+- Atoms/Molecules/Organisms 계층 구조 기반 재사용 가능한 컴포넌트 라이브러리 구축
+- Typo 컴포넌트: Figma 디자인 시스템 기반, props로 폰트사이즈/자간/행간/시맨틱태그/마진/패딩 제어
+- TypeScript로 props 타입 강제로 런타임 전 디버깅
+- 8-point grid system 적용 (픽셀 깨짐 방지)
+
+**반응형 웹 설계**
+
+- Material-UI Grid 시스템 활용, react-responsive로 디바이스별 분기 처리
+- Sass/SCSS 아키텍처: base/constants/layouts/mixins/modules 구조 설계
+
+**국제화(i18n)**
+
+- react-i18next 통합 및 브라우저 언어 자동 감지
+- 한/영 지원, 동적 필드명 변환
+
+**성능 & UX 최적화**
+
+- 이미지 preload 기능 구현, 로딩 상태 Backdrop
+- 재사용 가능한 Modal 컴포넌트, 미저장 방지 (뒤로가기/새로고침 시 경고)
+- 로그인 플로우: 로그인 후 원래 페이지 복귀
+- SEO 최적화, Google Analytics 트래킹 (클릭율/이탈율 측정)
+
+**비즈니스 성과**
+
+- 시드 투자 유치 및 여행 플랫폼 관련 상 수상에 기여
+- 서비스 런칭
