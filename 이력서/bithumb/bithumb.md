@@ -1,7 +1,7 @@
 <table width="100%" style="border: none; border-collapse: collapse;">
 <tr>
 <td style="border: none; vertical-align: top; padding-right: 25px;">
-<img src="../img/박시완 사진2.jpg" alt="박시완" width="130" style="border-radius: 8px;" />
+<img src="../../img/박시완 사진2.jpg" alt="박시완" width="130" style="border-radius: 8px;" />
 </td>
 <td style="border: none; vertical-align: top;">
 <h1 style="margin: 0 0 10px 0; font-size: 28px;">박시완 | 프론트엔드 개발자</h1>
@@ -17,28 +17,14 @@
 
 ## 주요 성과
 
-- **실시간 금융 데이터 시각화 시스템 구축** (WebSocket + TradingView, 10+ 기술적 지표)
 - **암호화폐 선물 트레이딩 +718.97% ROI** (90일, $62K 수익)
-- **Android/iOS 하이브리드 앱 개발 및 배포** (WebView-Native 양방향 통신, Google Play/App Store)
-- **Atomic Design 기반 공통 디자인 시스템 구축** (Figma 연동 컴포넌트 라이브러리)
+- **Bybit "최고의 마스터 트레이더" 선정** (2025.12)
 - **페이지 로딩 속도 78.75% 개선** (8초 → 1.7초)
 - **Next.js 메모리 사용량 40% 감소**
 - **인프라 비용 연 450만원 절감** (ECS → Vercel 전환)
-- **AI 도구(Claude Code, Windsurf) 활용 개발 생산성 향상**
-
----
-
-## 경력 요약
-
-**4.5년 경력의 프론트엔드 개발자**로서 **실시간 금융 데이터 처리 및 고성능 차트 시각화**, **하이브리드 앱(WebView-Native) 개발**, **공통 디자인 시스템 구축** 경험을 보유하고 있습니다. 헬스케어 SaaS와 여행 플랫폼에서 복잡한 비즈니스 로직을 구현하고, QA 및 배포까지 책임진 경험이 있습니다.
-
-**핵심 역량:**
-
-- WebView-Native 양방향 통신 설계 및 하이브리드 앱 개발/배포 (Android/iOS)
-- 대용량 실시간 금융 데이터 처리 및 고성능 차트 시각화 (WebSocket, TradingView)
-- Atomic Design 기반 공통 디자인 시스템 설계 및 컴포넌트 라이브러리 구축
-- TypeScript, React Hooks, TanStack Query 등 모던 프론트엔드 기술 실무 경험
-- AI 도구(Claude Code, Windsurf) 적극 활용으로 개발 생산성 향상
+- **Android/iOS 크로스 플랫폼 앱 개발 및 배포 완료** (Google Play, App Store)
+- **Cypress E2E 테스팅 자동화 도입**
+- **Feature-Sliced Design 아키텍처 도입** (코드 재사용성 및 유지보수성 향상)
 
 ---
 
@@ -46,24 +32,24 @@
 
 ### 퀀트트레이딩 대시보드 | 2025.06 ~ 현재
 
-_암호화폐 선물 트레이딩 실시간 분석 시스템_
+_암호화폐 선물 트레이딩 분석 시스템_
 
 **기술 스택**: Next.js 16, React 19, NestJS 11, WebSocket, TradingView Lightweight Charts
 
 **주요 기능**:
 
-- Bybit/Binance Futures API 연동으로 **실시간 캔들, OI, 청산 데이터 처리**
-- RSI, EMA, VWAP, ADX 등 **10+ 기술적 지표 고성능 차트 시각화**
+- Bybit/Binance Futures API 연동으로 실시간 캔들, OI, 청산 데이터 처리
+- RSI, EMA, VWAP, ADX 등 10+ 기술적 지표 시각화
 - 다이버전스 자동 감지 알고리즘 (RSI/OBV/CVD/OI)
 - SMC(시장 구조 분석): BOS, CHoCH, 오더블록 탐지
-- **WebSocket 기반 실시간 청산/고래 거래($50K+) 모니터링**
+- WebSocket 기반 실시간 청산/고래 거래($50K+) 모니터링
 - MTF(멀티 타임프레임) 분석으로 6개 타임프레임 동시 추적
 
 **스크린샷**:
 
-<img src="../img/퀀트트레이딩 대시보드1.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+<img src="../../img/퀀트트레이딩 대시보드1.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
 
-<img src="../img/퀀트트레이딩 대시보드2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+<img src="../../img/퀀트트레이딩 대시보드2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
 
 **실제 트레이딩 성과** (Bybit 선물):
 
@@ -71,9 +57,9 @@ _암호화폐 선물 트레이딩 실시간 분석 시스템_
 - Bybit **"최고의 마스터 트레이더"** 선정 (2025.12)
 - Bybit 리더보드 **Top Balanced Traders** 랭킹
 
-<img src="../img/트레이딩 성적4.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+<img src="../../img/트레이딩 성적4.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
 
-<img src="../img/트레이딩 성적2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+<img src="../../img/트레이딩 성적2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
 
 ### RSI 다이버전스 알림 봇 | 2025.07 ~ 현재
 
@@ -82,7 +68,21 @@ _암호화폐 기술적 분석 알림 서비스_
 - RSI 다이버전스 감지 봇 개발
 - 텔레그램 채널 무료 운영 (33명 구독): https://t.me/rsi_divergence_alert
 
-<img src="../img/기술적분석 알림 기여.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+<img src="../../img/기술적분석 알림 기여.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+---
+
+## 경력 요약
+
+**4.5년 경력의 프론트엔드 개발자**로서 헬스케어 SaaS 플랫폼과 여행 서비스에서 **웹/모바일 앱 개발, 성능 최적화, 아키텍처 설계**를 주도했습니다. 특히 **백오피스 시스템 제작, 다국어 지원, 인증/보안**, **데이터 시각화** 경험을 보유하고 있으며, **비용 절감**과 **사용자 경험 개선**에 집중한 프로젝트 경험이 있습니다.
+
+**핵심 역량:**
+
+- React/Next.js 기반 웹 애플리케이션 개발 및 아키텍처 설계
+- Android(Kotlin)/iOS(Swift) 웹뷰로 작동하는 앱 개발
+- 결제/예약 시스템, 인증/보안, 국제화(i18n)
+- 성능 최적화 (페이지 로딩 78.75% 개선, 메모리 40% 감소)
+- 인프라 비용 절감 (연간 약 450만원 절감)
 
 ---
 
@@ -90,34 +90,27 @@ _암호화폐 기술적 분석 알림 서비스_
 
 ### Frontend
 
-**Core:** React, Next.js (13-16), TypeScript
+**Core:** React, Next.js (13-15), TypeScript
 **State Management:** Recoil, Jotai, React Query, TanStack Query
 **Styling:** Tailwind CSS, Material-UI
-**Chart:** TradingView Lightweight Charts, Chart.js
 **Form:** react-hook-form
 
-### Mobile & Hybrid
+### Mobile
 
-**Android:** Kotlin, WebView, WebView-Native 양방향 통신
-**iOS:** Swift, WebView
+**Android:** Kotlin, WebView
+**iOS:** Swift
 **Push:** FCM (Firebase Cloud Messaging)
-**배포:** Google Play, App Store 심사 및 배포
 
 ### Backend & API
 
-**Integration:** RESTful API, gRPC, WebSocket
+**Integration:** RESTful API, gRPC
 **Database:** MongoDB, PostgreSQL, DocumentDB
 
 ### Infrastructure & DevOps
 
-**Deployment:** Vercel, AWS (ECS), GCP, Docker
+**Deployment:** Vercel, AWS (ECS), Docker
 **CI/CD:** GitHub Actions
-**Firebase:** FCM, Analytics
-
-### Design System
-
-**Pattern:** Atomic Design (Atoms/Molecules/Organisms)
-**Tools:** Figma, Figma Dev Mode, MCP 플러그인 개발
+**Cost Optimization:** ECS → Vercel 전환으로 연 450만원 절감
 
 ### Testing & Quality
 
@@ -125,42 +118,38 @@ _암호화폐 기술적 분석 알림 서비스_
 
 ### Collaboration & Tools
 
-**비동기 커뮤니케이션:** Slack, Notion, Jira (티켓 자동화)
-**AI Tools:** Claude Code, Windsurf로 개발 생산성 향상
+**Project Management:** Jira (티켓 자동화), Notion 데이터베이스 번역 파일 자동 동기화 시스템
+**Design:** Figma, Figma Dev Mode, MCP 플러그인 개발 (규격서 넘버링 추적용)
+**AI Tools:** Windsurf 및 Claude Code로 업무 효율 향상
 
 ---
 
 ## 프로젝트 하이라이트
 
-1. **하이브리드 앱 & WebView-Native 통신**
-   - WebView 기반 Android(Kotlin)/iOS(Swift) 앱 개발 및 배포
-   - WebView-Native 양방향 통신 인터페이스 설계
-   - FCM 푸시 알림 (잠금화면/백그라운드/포그라운드 대응)
-   - 토큰 기반 인증 및 세션 유지 (SharedPreferences, iOS Keychain)
+1. **결제/예약 시스템**
+   - 여행 플랫폼 패키지 예약 시스템 (회원/비회원, 계약금/잔금/환불 처리)
+   - 다중 화폐 지원 (KRW, USD), 가격 천단위 표기 커스텀 훅
+   - Booking.com API 연동 호텔 예약 시스템
 
-2. **실시간 데이터 처리 & 차트 시각화**
-   - WebSocket 기반 실시간 금융 데이터 스트리밍
-   - TradingView Lightweight Charts로 10+ 기술적 지표 시각화
-   - Chart.js 활용 투약 순응도, 걸음수 그래프 (60개+ 데이터 최적화)
+2. **인증 및 보안**
+   - 모바일에서의 인증 및 로그인 세션 유지 (SharedPreferences, iOS Keychain)
+   - 디지털 서명 시스템 구현 및 인증 센터 연동
 
-3. **공통 디자인 시스템 구축**
-   - Atomic Design Pattern 기반 컴포넌트 라이브러리 (Figma 연동)
-   - Typo 컴포넌트: props로 폰트사이즈/자간/행간/시맨틱태그 제어
-   - 8-point grid system, TypeScript 타입 강제로 런타임 전 디버깅
+3. **실시간 알림 시스템**
+   - FCM 푸시 알림 시스템 (실시간 낙상 감지, 과투약 경고)
+   - Stream 채팅 솔루션 연동 (실시간 메시지, 데스크톱 알림)
 
-4. **복잡한 비즈니스 로직 & 비동기 데이터 처리**
-   - 결제/예약 시스템 (계약금/잔금/환불, 다중 화폐 KRW/USD)
-   - gRPC + Protocol Buffers 기반 타입 안전 통신
-   - React-Query 자동 refetch, MSW 모의데이터 환경
+4. **데이터 시각화**
+   - 투약 순응도, 걸음수, 투약횟수 그래프 (Chart.js)
+   - 차트 x축에 60개 이상 데이터 처리시 최적화 알고리즘 적용, 가로 스크롤 제약 해결 UX
 
-5. **성능 최적화 & 인프라**
+5. **성능 최적화 및 비용 절감**
    - 페이지 로딩 78.75% 개선 (8초 → 1.7초)
-   - Next.js 메모리 40% 감소, 502 장애 해결
+   - Next.js 메모리 40% 감소
    - ECS → Vercel 전환으로 연 450만원 절감
 
-6. **국제화(i18n) & 원격 협업**
-   - 4개 국어 지원 (한/중/일/영), 자동 언어 감지
-   - Notion 기반 번역 자동 동기화, Jira 티켓 자동화
+6. **국제화(i18n)**
+   - 4개 국어 지원 (한/중/일/영), 자동 언어 감지, 번역 관리 시스템
 
 ---
 
@@ -180,8 +169,9 @@ _암호화폐 기술적 분석 알림 서비스_
 
 ## 기타
 
-- **관심 분야:** 핀테크, 실시간 데이터 시각화, 성능 최적화
-- **협업 스타일:** 비동기 커뮤니케이션(Slack, Notion) 선호, PM/QA 등 이해관계자가 업무 진행 상황을 알 수 있게 문서화 (Jira 티켓 상태 최신화), 소통시 이해하기 쉽거나 요약된 내용으로 공유
+- **MBTI:** ENFJ
+- **관심 분야:** 데이터 시각화, 성능 최적화
+- **협업 스타일:** 타 직무와 함께 더 나은 대안을 내는데 관심있음, PM/QA 등 이해 관계자가 업무 진행 상황을 알 수 있게 문서화 (jira 티켓 상태 최신화), 소통시 이해하기 쉽거나 요약된 내용으로 공유하려 노력
 
 ---
 
@@ -194,11 +184,11 @@ _헬스케어 SaaS 플랫폼 (투약 순응도 모니터링 시스템)_
 
 #### **2025년 - 모바일 앱 개발 및 성능 최적화**
 
-**인핸드매니저앱 (Android/iOS) - 하이브리드 앱 개발 및 배포**
+**인핸드매니저앱 (Android/iOS) - 신규 관리자 앱 개발 및 배포**
 
-- **WebView 기반 하이브리드 아키텍처**로 Android(Kotlin) 및 iOS(Swift) 앱 개발 완료
+- WebView 기반 하이브리드 아키텍처로 Android(Kotlin) 및 iOS(Swift) 앱 개발 완료
 - FCM 푸시 알림 시스템 구현으로 실시간 낙상 감지 알림 지원 (잠금화면/백그라운드/포그라운드 모든 상태 대응)
-- Node.js 서버와 FCM SDK 연동, **WebView-Native 양방향 통신 인터페이스 구현**
+- Node.js 서버와 FCM SDK 연동, WebView-Native 양방향 통신 인터페이스 구현
 - 토큰 기반 인증 및 로그인 세션 유지 (SharedPreferences), Lottie 애니메이션 스플래시 화면 (3초 프리로딩)
 - Google Play/App Store 심사 통과 및 배포 완료
 
