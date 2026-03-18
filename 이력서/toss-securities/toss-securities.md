@@ -276,9 +276,15 @@ _실시간 금융 데이터 시각화 시스템_ — Next.js 16, React 19, TypeS
 
 <img src="../../img/퀀트트레이딩 대시보드1.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
 
+_6개 타임프레임의 실시간 지표를 하나의 테이블로 압축한 멀티타임프레임 분석 대시보드_
+
 <img src="../../img/퀀트트레이딩 대시보드2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
 
+_6개 타임프레임 차트를 그리드 레이아웃으로 배치하여 한눈에 시장 구조를 파악할 수 있도록 설계_
+
 <img src="../../img/퀀트트레이딩 대시보드3.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+_실시간 포지션 현황과 6개 전략의 신호 점수를 동시에 모니터링하는 트레이딩 실행 화면_
 
 **퀀트트레이딩 봇 — 기획부터 수익화까지 1인 완결**
 
@@ -298,9 +304,15 @@ _실시간 금융 데이터 시각화 시스템_ — Next.js 16, React 19, TypeS
 
 <img src="../../img/디자인 졸업작품 1.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
 
+_SIJAC 앱 — 챌린지 시작 화면 및 스플래시 UI 디자인_
+
 <img src="../../img/디자인 졸업작품 2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
 
+_목표 달성률, 통계 그래프 등 데이터 시각화 UI와 앱 컨셉 소개_
+
 <img src="../../img/디자인 졸업작품 3.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+_걸음수·칼로리·물 섭취 등 건강 지표 대시보드 및 챌린지 달성 화면 디자인_
 
 **한국조형예술고등학교 | 그래픽디자인과**
 2011.03 ~ 2014.03
