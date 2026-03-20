@@ -43,13 +43,13 @@
 
 ### Frontend & UI
 
-**Core:** React, Next.js (13~16), TypeScript
-**State:** Recoil, Jotai, TanStack Query
-**Styling:** Tailwind CSS, Material-UI, Sass/SCSS
-**Design System:** Atomic Design Pattern, 4-point grid, Figma 시안 기반 컴포넌트 라이브러리
-**Animation:** Lottie
-**Form:** react-hook-form
-**Chart:** TradingView Lightweight Charts, Chart.js
+- **Core:** React, Next.js (13~16), TypeScript
+- **State:** Recoil, Jotai, TanStack Query
+- **Styling:** Tailwind CSS, Material-UI, Sass/SCSS
+- **Design System:** Atomic Design Pattern, 4-point grid, Figma 시안 기반 컴포넌트 라이브러리
+- **Animation:** Lottie
+- **Form:** react-hook-form
+- **Chart:** TradingView Lightweight Charts, Chart.js
 
 ### 디자이너 협업 도구
 
