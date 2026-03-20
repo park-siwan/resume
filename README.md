@@ -53,17 +53,17 @@
 
 ### 디자이너 협업 도구
 
-**Design Handoff:** Figma Dev Mode 참고 개발
-**생산성:** Claude Code 활용
+- **Design Handoff:** Figma Dev Mode 참고 개발
+- **생산성:** Claude Code 활용
 
 ### Testing & Quality
 
-**E2E:** Cypress (코드 커버리지 측정)
+- **E2E:** Cypress (코드 커버리지 측정)
 
 ### Infrastructure
 
-**Deployment:** Vercel, AWS (ECS)
-**CI/CD:** GitHub Actions
+- **Deployment:** Vercel, AWS (ECS)
+- **CI/CD:** GitHub Actions
 
 ---
 
