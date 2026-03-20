@@ -2,7 +2,7 @@
 <tr>
 <td><img src="img/박시완 사진2.jpg" width="150" /></td>
 <td>
-<b>박시완 | Frontend UX Engineer</b><br><br>
+<b>박시완 | Frontend Engineer</b><br><br>
 <b>Email</b>: siwandevelop@gmail.com<br>
 <b>GitHub</b>: <a href="https://github.com/park-siwan">github.com/park-siwan</a><br>
 <b>Location</b>: 서울
