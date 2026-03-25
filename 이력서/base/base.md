@@ -223,6 +223,18 @@ _풀스택_ — React 19, Next.js 16, TypeScript, WebSocket, TradingView Lightwe
 - **행동**: 1단계) React + WebSocket으로 10개+ 기술적 지표를 실시간 시각화하는 대시보드 구축 → 2단계) 대시보드의 판단 과정을 자동화하기 위해 Pine Script 전략 설계·백테스팅 후 TypeScript 자동매매 봇 개발 → 3단계) 봇 배포·유지보수의 진입장벽을 낮추기 위해 Bybit 카피트레이딩으로 전환하여 사용자가 별도 설정 없이 전략을 따라갈 수 있는 구조로 설계
 - **결과**: Bybit 카피트레이딩 심사 통과/특별면제, 2025.12 최고의 마스터트레이더 선정. 기획부터 수익화까지 1인 완결
 
+<img src="../../img/퀀트트레이딩 대시보드1.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+_6개 타임프레임의 실시간 지표를 하나의 테이블로 압축한 멀티타임프레임 분석 대시보드_
+
+<img src="../../img/퀀트트레이딩 대시보드2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+_6개 타임프레임 차트를 그리드 레이아웃으로 배치하여 한눈에 시장 구조를 파악할 수 있도록 설계_
+
+<img src="../../img/퀀트트레이딩 대시보드3.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+_실시간 포지션 현황과 6개 전략의 신호 점수를 동시에 모니터링하는 트레이딩 실행 화면_
+
 ---
 
 ## 학력
@@ -231,11 +243,25 @@ _풀스택_ — React 19, Next.js 16, TypeScript, WebSocket, TradingView Lightwe
 2014.03 ~ 2021.02
 
 - HTML, CSS, JavaScript, jQuery, canvas API 등의 프로그래밍 원리를 학습
+- 졸업 포트폴리오: [SIJAC - Challenge Management App](https://www.behance.net/gallery/99647177/SIJAC-Challenge-Management-App)
+
+<img src="../../img/디자인 졸업작품 1.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+_SIJAC 앱 — 챌린지 시작 화면 및 스플래시 UI 디자인_
+
+<img src="../../img/디자인 졸업작품 2.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+_목표 달성률, 통계 그래프 등 데이터 시각화 UI와 앱 컨셉 소개_
+
+<img src="../../img/디자인 졸업작품 3.png" width="100%" style="border-radius: 8px; margin: 3px 0;" />
+
+_걸음수·칼로리·물 섭취 등 건강 지표 대시보드 및 챌린지 달성 화면 디자인_
 
 **한국조형예술고등학교 | 그래픽디자인과**
 2011.03 ~ 2013.03
 
-- 포토샵, 일러스트 등을 활용한 디자인 작업
+- 정밀묘사, 채색 등 시각 표현 기초 훈련
+- 부산산업디자인전람회 패키지 디자인 부문 3등 수상
 
 ---
 
